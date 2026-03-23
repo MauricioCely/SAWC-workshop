@@ -1,9 +1,12 @@
-# The New Chestnut Ridge Supersite (CHESS)
-## Enhanced Measurements of Soil-Forest-Atmosphere Exchange
+# 🌱 The New Chestnut Ridge Supersite (CHESS)  
+## 🌍 Enhanced Measurements of Soil-Forest-Atmosphere Exchange
+
+Welcome to the repository for the **Southern Appalachian Weather and Climate Workshop (SAWC)** presentation! 
+You can access the slides for this presentation at the following link:  [SAWC Workshop Slides](https://mauriciocely.github.io/SAWC-workshop)
 
 This repository contains the presentation and associated resources for the oral presentation at the **Southern Appalachian Weather and Climate Workshop (SAWC)**. We introduce the **Chestnut Ridge Supersite (CHESS)** and its role in advancing the understanding of **biosphere-atmosphere interactions**.
 
-### Authors:
+### 👩‍🔬 Authors:
 - Ivan Mauricio Cely-Toro
 - Praveena Krishnan
 - Rick Saylor
@@ -18,7 +21,7 @@ NOAA Air Resources Laboratory (ARL) | Atmospheric Turbulence and Diffusion Divis
 
 ---
 
-## Motivation and Objectives
+## 🎯 Motivation and Objectives
 
 The **Chestnut Ridge Supersite (CHESS)** is a new platform for collaborative research into biosphere-atmosphere interactions. Key objectives include:
 
@@ -31,14 +34,14 @@ CHESS provides open access to high-quality atmospheric and ecological data, supp
 
 ---
 
-## Event Details
+## 📅 Event Details
 
-### Southern Appalachian Weather and Climate Workshop (SAWC)  
+### 🌦️ Southern Appalachian Weather and Climate Workshop (SAWC)  
 - **Date**: March 27-28, 2026  
 - **Location**: Asheville, NC  
 - **Event Website**: [SAWC Workshop Home](https://sites.google.com/view/sawcworkshop/home?authuser=1)
 
-### Presentation Details:
+### 📊 Presentation Details:
 - **Title**: The New Chestnut Ridge Supersite: Enhanced Measurements of Soil-Forest-Atmosphere Exchange
 - **Presenters**: Ivan Mauricio Cely-Toro, Praveena Krishnan, Rick Saylor, John Kochendorfer, Temple R. Lee, Tim Wilson, Mark Heuer, and Tilden P. Meyers.
 
